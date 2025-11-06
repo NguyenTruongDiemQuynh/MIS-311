@@ -28,6 +28,7 @@ Filtering the Average_Monthly_Income column by unselecting all then choosing bla
 <img width="940" height="99" alt="image" src="https://github.com/user-attachments/assets/2dd61dac-ca19-478e-b8fa-793afcf05bbc" />
  
 After that, the missing values appear in column C (Average_Monthly_Income) at rows 162 and 178.
+
 <img width="428" height="267" alt="image" src="https://github.com/user-attachments/assets/07821ed6-45cc-439d-ae1c-65de4bb579df" />
  
 To deal with this, I chose to use deletion (omission), because this is a simple and safe way to clean data. In this method, any row with missing information is removed rather than try to guess or fill in the blanks. I chose this method because it keeps my data honest, not estimated. In Excel, I did this by selecting the two rows with missing income values, right clicking, and choosing “Delete entire row.” After doing this, the dataset went from 202 rows to 200 rows.
