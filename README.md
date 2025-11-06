@@ -3,7 +3,7 @@ Part 1: Data Analysis and Insight
 The dataset titled "Cost of Living" provides historical economic data on average monthly income and cost of living across 12 countries from 2000 to 2023, making it a valuable resource for analyzing global economic trends, affordability, purchasing power, and regional disparities over time.
  <img width="470" height="418" alt="image" src="https://github.com/user-attachments/assets/88c5123b-381b-4120-8911-a35478c2ea49" />
 
-It includes 202 rows (including header) and 5 columns: Country, Year, Average_Monthly_Income, Cost_of_Living, Region.
+It includes 202 rows (including header) and 5 columns: Country, Year, Average Monthly Income, Cost of Living, Region.
 
 •	Country: Name of the country (12 unique values: Australia, Brazil, Canada, China, France, Germany, India, Japan, Mexico, Russia, South Africa, United States).
 
