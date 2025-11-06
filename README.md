@@ -29,7 +29,8 @@ Filtering the Average_Monthly_Income column by unselecting all then choosing bla
  
 After that, the missing values appear in column C (Average_Monthly_Income) at rows 162 and 178.
 
-<img width="428" height="267" alt="image" src="https://github.com/user-attachments/assets/07821ed6-45cc-439d-ae1c-65de4bb579df" />
+<img width="1367" height="474" alt="image" src="https://github.com/user-attachments/assets/f52dea58-189d-43e5-8891-5e967960e3f5" />
+
  
 To deal with this, I chose to use deletion (omission), because this is a simple and safe way to clean data. In this method, any row with missing information is removed rather than try to guess or fill in the blanks. I chose this method because it keeps my data honest, not estimated. In Excel, I did this by selecting the two rows with missing income values, right clicking, and choosing “Delete entire row.” After doing this, the dataset went from 202 rows to 200 rows.
 
@@ -41,7 +42,8 @@ Filtering the Region column by unselecting all and then choosing blanks. After t
 To fix this, I used manual imputation, which means filling in the missing data by hand. Since Mexico is in North America, I replaced both missing Region values with “North America.” This method is simple, accurate, and makes sure the data matches real-world information.
 
 •	Identify any duplicate rows and remove duplicate rows if necessary
-<img width="483" height="302" alt="image" src="https://github.com/user-attachments/assets/7d64a5a1-9abe-4bac-b630-cf3d3304bb97" />
+<img width="858" height="179" alt="image" src="https://github.com/user-attachments/assets/f37bb7d8-288d-4e16-87aa-258978d05e48" />
+
  
 After deleting the two rows with missing income data, I had 200 records left, then I then used Excel’s “Remove Duplicates” tool, which deleted two identical rows, leaving 197 unique rows. This cleaned out perfect duplicates without losing any real information.
 
